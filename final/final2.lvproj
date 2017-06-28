@@ -170,7 +170,6 @@
 			<Item Name="Advapi32.dll" Type="Document" URL="Advapi32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
-			<Item Name="IMAQ Vision Example folder.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Vision/IMAQ Vision Example folder.vi"/>
 			<Item Name="IMAQ Vision Example folder.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2014/examples/Vision/IMAQ Vision Example folder.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
